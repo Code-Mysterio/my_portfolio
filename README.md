@@ -65,6 +65,10 @@ If I had more time, features I'll like to include in the app include;
 - Make the codebase responsive on the web and iOS platforms. As flutter support both platform, it'll be easier for recruiters to view my portfolio without installing the app on their device.
 
 
+###Link to the APK file
+[Link to my APK file](https://drive.google.com/file/d/1TDheCymS9feCz3zKRAYvbHv6RpyQbnMw/view?usp=share_link)
+
+
 ### Description of the challenges I faced and how I solved them.
 It is inevitable to always come across challenges while building an app. For this app, I faced some challenges when building it, and those challenges include:
 - Not knowing how to write in Markdown language.
@@ -77,6 +81,6 @@ I was able to solve them as listed below:
 
 
 ### Link to the Appetize.io link
-[Link to my Appetizer]()
+[Link to my Appetizer](https://appetize.io/app/uxarevrciy5txhaypaem5vsf3y?device=pixel6pro&osVersion=12.0&scale=75)
 
 
